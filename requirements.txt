@@ -5,3 +5,6 @@ langchain_text_splitters
 pypdf
 pymupdf
 tqdm
+sentence-transformers
+faiss-cpu
+chromadb==0.5.23

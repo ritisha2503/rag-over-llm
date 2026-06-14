@@ -14,3 +14,7 @@ typesense
 langchain-huggingface
 langchain_openai
 langgraph
+langsmith
+beautifulsoup4
+lxml
+pandas
